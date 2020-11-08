@@ -1,7 +1,9 @@
 def greet_characters(array)
 array = dwarves = ["Dopey!", "Grumpy!", "Bashful!"]
-  array.each do |greetings|
+count=0 
+  array[count] do |greetings|
     print "Hello " + greetings
+    count+1
   end
   
 end
