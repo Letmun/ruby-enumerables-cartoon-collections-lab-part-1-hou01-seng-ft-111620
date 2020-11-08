@@ -1,5 +1,5 @@
 def greet_characters(array)
-array = 
+array = dwarves = ["Dopey", "Grumpy", "Bashful"]
   
   
 end
