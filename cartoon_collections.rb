@@ -1,6 +1,7 @@
 def greet_characters(array)
   dwarves = ["Dopey", "Grumpy", "Bashful"]
-dwarves eacj
+dwarves.each do |greetings|
+  
 end
 
 def list_dwarves(array)
